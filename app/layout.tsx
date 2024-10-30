@@ -24,7 +24,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.ico" />
         <title>Asia Life Journey – Personalize your Asia experience journey</title>
       </head>
       <body className={inter.className}>
