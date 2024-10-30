@@ -20,11 +20,11 @@ const destinations = [
   { name: 'Campuchia', description: 'Adventure through the thousands of islands and unique cultures of Campuchia.' },
 ]
 const tours = [
-  { name: 'Thai Beach Paradise', duration: '7 days', price: '$1,599', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours-1" },
-  { name: 'Laos: Ancient and Modern', duration: '12 days', price: '$2,499', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours-2" },
-  { name: 'Singapore City Lights', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours-3" },
-  { name: 'Ha Long Bay', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours-1" },
-  { name: 'Sapa', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours-4" },
+  { name: 'Thai Beach Paradise', duration: '7 days', price: '$1,599', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours/5" },
+  { name: 'Laos: Ancient and Modern', duration: '12 days', price: '$2,499', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours/1" },
+  { name: 'Singapore City Lights', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours/2" },
+  { name: 'Ha Long Bay', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours/3" },
+  { name: 'Sapa', duration: '5 days', price: '$1,299', image: 'https://dummyimage.com/400x300/25a6be.png', path: "/tours/4" },
 ]
 
 const reasons = [
