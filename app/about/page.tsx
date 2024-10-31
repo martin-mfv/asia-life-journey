@@ -32,7 +32,7 @@ export default function AboutPage() {
               Founded in 2010, Asia Life Journey was born out of a passion for sharing the rich tapestry of Asian cultures with the world. Our founders, seasoned travelers themselves, recognized the need for authentic, immersive experiences that go beyond typical tourist attractions.
             </p>
             <p className="text-lg mb-6">
-              Over the years, we've curated a collection of journeys that showcase the best of Asia - from the bustling streets of Tokyo to the serene temples of Bali, and everything in between. Our mission is to create travel experiences that not only excite and inspire but also foster cultural understanding and personal growth.
+              Over the years, we&apos;ve curated a collection of journeys that showcase the best of Asia - from the bustling streets of Tokyo to the serene temples of Bali, and everything in between. Our mission is to create travel experiences that not only excite and inspire but also foster cultural understanding and personal growth.
             </p>
             <Button size="lg">Learn More About Our Journey</Button>
           </div>
@@ -95,7 +95,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">Ready to Start Your Asian Adventure?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Join us in exploring the wonders of Asia. Let's create unforgettable memories together.
+            Join us in exploring the wonders of Asia. Let&apos;s create unforgettable memories together.
           </p>
           <Button size="lg" variant="secondary">
             <Link href="/plan-your-tour">

@@ -16,8 +16,8 @@ export default function HanoiFoodTourBlog() {
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <div className="text-center text-white">
-            <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4">Savoring Hanoi's Old Quarter</h1>
-            <p className="text-xl sm:text-2xl md:text-3xl">A Culinary Journey Through Vietnam's Capital</p>
+            <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4">Savoring Hanoi&apos;s Old Quarter</h1>
+            <p className="text-xl sm:text-2xl md:text-3xl">A Culinary Journey Through Vietnam&apos;s Capital</p>
           </div>
         </div>
       </section>
@@ -26,12 +26,12 @@ export default function HanoiFoodTourBlog() {
         {/* Introduction */}
         <Card className="mb-12">
           <CardContent className="p-6">
-            <h2 className="text-3xl font-bold mb-4">Exploring Hanoi's Culinary Treasures</h2>
+            <h2 className="text-3xl font-bold mb-4">Exploring Hanoi&apos;s Culinary Treasures</h2>
             <p className="text-lg mb-4">
-              Hanoi's Old Quarter is a labyrinth of narrow streets and alleys, each hiding culinary gems that have been perfected over generations. Our food tour takes you through this gastronomic wonderland, offering a taste of authentic Vietnamese cuisine and the rich culture behind each dish.
+              Hanoi&apos;s Old Quarter is a labyrinth of narrow streets and alleys, each hiding culinary gems that have been perfected over generations. Our food tour takes you through this gastronomic wonderland, offering a taste of authentic Vietnamese cuisine and the rich culture behind each dish.
             </p>
             <p className="text-lg">
-              Join us as we navigate the bustling streets, savoring everything from steaming bowls of phở to crispy bánh mì, and discover why Hanoi is a food lover's paradise.
+              Join us as we navigate the bustling streets, savoring everything from steaming bowls of phở to crispy bánh mì, and discover why Hanoi is a food lover&apos;s paradise.
             </p>
           </CardContent>
         </Card>
@@ -42,7 +42,7 @@ export default function HanoiFoodTourBlog() {
             <div className="md:w-1/2 md:pr-6 mb-6 md:mb-0">
               <h2 className="text-2xl font-bold mb-4">Phở - The Soul of Hanoi</h2>
               <p className="mb-4">
-                Our journey begins with Vietnam's most iconic dish - phở. This aromatic beef noodle soup is a breakfast staple for locals and a must-try for visitors. We'll visit Phở Gia Truyen, a family-run establishment that has been serving their secret recipe for over 50 years.
+                Our journey begins with Vietnam&apos;s most iconic dish - phở. This aromatic beef noodle soup is a breakfast staple for locals and a must-try for visitors. We&apos;ll visit Phở Gia Truyen, a family-run establishment that has been serving their secret recipe for over 50 years.
               </p>
               <p>
                 The rich, clear broth, tender slices of beef, and fresh herbs create a symphony of flavors that will awaken your taste buds and give you a true taste of Hanoi.
@@ -66,10 +66,10 @@ export default function HanoiFoodTourBlog() {
             <div className="md:w-1/2 md:pl-6 mb-6 md:mb-0">
               <h2 className="text-2xl font-bold mb-4">Bánh Mì - The Perfect Sandwich</h2>
               <p className="mb-4">
-                Next, we'll sample the beloved bánh mì, a fusion of French and Vietnamese cuisines. At Bánh Mì 25, we'll watch as skilled hands assemble these delicious sandwiches, stuffing crispy baguettes with a variety of fillings.
+                Next, we&apos;ll sample the beloved bánh mì, a fusion of French and Vietnamese cuisines. At Bánh Mì 25, we&apos;ll watch as skilled hands assemble these delicious sandwiches, stuffing crispy baguettes with a variety of fillings.
               </p>
               <p>
-                From classic pork and pâté to vegetarian options, each bánh mì is a perfect balance of flavors and textures, representing the cultural blend that makes Hanoi's cuisine unique.
+                From classic pork and pâté to vegetarian options, each bánh mì is a perfect balance of flavors and textures, representing the cultural blend that makes Hanoi&apos;s cuisine unique.
               </p>
             </div>
             <div className="md:w-1/2">
@@ -88,12 +88,12 @@ export default function HanoiFoodTourBlog() {
         <section className="mb-12">
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 md:pr-6 mb-6 md:mb-0">
-              <h2 className="text-2xl font-bold mb-4">Bún Chả - Hanoi's Lunchtime Favorite</h2>
+              <h2 className="text-2xl font-bold mb-4">Bún Chả - Hanoi&apos;s Lunchtime Favorite</h2>
               <p className="mb-4">
-                As lunchtime approaches, we'll dive into a bowl of bún chả, a dish that Anthony Bourdain famously shared with President Obama. At Bún Chả Hương Liên, you'll experience the dish just as they did.
+                As lunchtime approaches, we&apos;ll dive into a bowl of bún chả, a dish that Anthony Bourdain famously shared with President Obama. At Bún Chả Hương Liên, you&apos;ll experience the dish just as they did.
               </p>
               <p>
-                Savor the smoky flavor of grilled pork belly and meatballs, served with rice noodles, fresh herbs, and a tangy dipping sauce. It's a taste of Hanoi that you won't soon forget.
+                Savor the smoky flavor of grilled pork belly and meatballs, served with rice noodles, fresh herbs, and a tangy dipping sauce. It&apos;s a taste of Hanoi that you won&apos;t soon forget.
               </p>
             </div>
             <div className="md:w-1/2">
@@ -114,7 +114,7 @@ export default function HanoiFoodTourBlog() {
             <div className="md:w-1/2 md:pl-6 mb-6 md:mb-0">
               <h2 className="text-2xl font-bold mb-4">Cà Phê Trứng - Egg Coffee</h2>
               <p className="mb-4">
-                To round off our culinary adventure, we'll visit Café Giang, the birthplace of Hanoi's famous egg coffee. This unique beverage combines strong Vietnamese coffee with a creamy egg foam, creating a drink that's both a dessert and a caffeine kick.
+                To round off our culinary adventure, we&apos;ll visit Café Giang, the birthplace of Hanoi&apos;s famous egg coffee. This unique beverage combines strong Vietnamese coffee with a creamy egg foam, creating a drink that&apos;s both a dessert and a caffeine kick.
               </p>
               <p>
                 Sipping this rich concoction while overlooking the bustling streets of the Old Quarter is the perfect way to reflect on the flavors and experiences of the day.
@@ -137,7 +137,7 @@ export default function HanoiFoodTourBlog() {
           <CardContent className="p-6 text-center">
             <h2 className="text-3xl font-bold mb-4">Ready to Taste Hanoi?</h2>
             <p className="text-lg mb-6">
-              Join us on a culinary adventure through Hanoi's Old Quarter and experience the flavors that make this city a food lover's paradise.
+              Join us on a culinary adventure through Hanoi&apos;s Old Quarter and experience the flavors that make this city a food lover&apos;s paradise.
             </p>
             <Button size="lg" asChild>
               <a href="/book-food-tour">Book Your Food Tour Now</a>

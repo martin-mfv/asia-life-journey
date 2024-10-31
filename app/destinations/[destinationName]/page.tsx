@@ -50,7 +50,7 @@ export default function VietnamDestinationPage() {
             Vietnam is a Southeast Asian country known for its beautiful landscapes, rich history, and vibrant culture. From bustling cities to serene countryside, Vietnam offers a diverse range of experiences for travelers.
           </p>
           <p className="text-lg mb-4">
-            Key highlights include the stunning Ha Long Bay, the ancient town of Hoi An, the vibrant capital Hanoi, and the bustling Ho Chi Minh City. Vietnam's cuisine is world-renowned, offering a perfect blend of flavors and fresh ingredients.
+            Key highlights include the stunning Ha Long Bay, the ancient town of Hoi An, the vibrant capital Hanoi, and the bustling Ho Chi Minh City. Vietnam&apos;s cuisine is world-renowned, offering a perfect blend of flavors and fresh ingredients.
           </p>
         </div>
       </section>
@@ -192,7 +192,7 @@ export default function VietnamDestinationPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-4 sm:mb-6">Ready to Explore Vietnam?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Embark on an unforgettable journey through Vietnam's rich culture, stunning landscapes, and vibrant cities.
+            Embark on an unforgettable journey through Vietnam&apos;s rich culture, stunning landscapes, and vibrant cities.
           </p>
           <Button size="lg" variant="secondary">
             <Link href="/contact">Start Planning Your Trip</Link>
