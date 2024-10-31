@@ -139,7 +139,7 @@ export default function VietnamDestinationPage() {
                       <p className="text-muted-foreground">{activity.description}</p>
                     </CardContent>
                     <CardFooter className="p-4">
-                      <Button variant="outline" className="w-full">Learn More</Button>
+                      <Button variant="outline" className="w-full"><Link href={'/blogs/1'}>Learn More</Link></Button>
                     </CardFooter>
                   </Card>
                 </SwiperSlide>

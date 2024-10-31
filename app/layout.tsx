@@ -41,7 +41,7 @@ export default function RootLayout({
             <nav className={`md:flex md:space-x-4 ${isMenuOpen ? 'block' : 'hidden'} absolute md:relative top-full left-0 w-full md:w-auto bg-white md:bg-transparent shadow-md md:shadow-none z-50`}>
             <div className="relative group">
                 <div className="block md:inline-flex py-2 px-4 text-gray-600 hover:text-primary cursor-pointer items-center gap-1">
-                  Destinations
+                  <h1 className='font-bold'>Destinations</h1>
                 </div>
                 {/* Dropdown Menu with top chevron */}
                 <div className="hidden group-hover:block md:absolute md:top-full left-1/2 md:-translate-x-1/2 w-48 pt-2">
@@ -69,9 +69,9 @@ export default function RootLayout({
                   </div>
                 </div>
               </div>
-              <Link href="/tours" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary">Tours</Link>
-              <Link href="/about" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary">About</Link>
-              <Link href="/contact" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary">Contact</Link>
+              <Link href="/tours" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary"><h1 className='font-bold'>Tours</h1></Link>
+              <Link href="/about" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary"><h1 className='font-bold'>About</h1></Link>
+              <Link href="/contact" className="block md:inline-block py-2 px-4 text-gray-600 hover:text-primary"><h1 className='font-bold'>Contact</h1></Link>
             </nav>
             <Button variant="outline" className="md:hidden" onClick={toggleMenu}>
               {isMenuOpen ? (
