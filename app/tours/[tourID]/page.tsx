@@ -105,7 +105,7 @@ const tourData = {
 }
 
 export default function TourDetailPage() {
-  const [thumbsSwiper, setThumbsSwiper] = useState(null);
+  const [thumbsSwiper] = useState(null);
 
   return (
     <div className="min-h-screen bg-gray-100">
@@ -147,7 +147,6 @@ export default function TourDetailPage() {
       <section className="bg-white py-4">
         <div className="container mx-auto px-4">
           <Swiper
-            onSwiper={setThumbsSwiper}
             spaceBetween={10}
             slidesPerView={4}
             freeMode={true}
