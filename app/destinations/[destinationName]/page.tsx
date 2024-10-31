@@ -179,7 +179,7 @@ export default function VietnamDestinationPage() {
                   <p className="text-lg font-bold">From ${tour.price}</p>
                 </CardContent>
                 <CardFooter>
-                  <Button className="w-full">View Details</Button>
+                  <Button className="w-full"><Link href="/tours/2">View Details</Link></Button>
                 </CardFooter>
               </Card>
             ))}
